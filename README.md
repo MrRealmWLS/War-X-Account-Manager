@@ -1,4 +1,5 @@
 # War X Account Manager
+![WAR X ACCOUNT Tool Banner](https://github.com/MrRealmWLS/War-X-Account-Manager/blob/e61380adb2b76ef29de2ea34d08cfe9f95671c47/image.png)
 
 **War X Account Manager** is a Python-based command-line tool designed to perform bulk management actions on a Discord account using a user token. The tool provides options to leave servers, close direct messages, remove friends, or perform all actions at once through a simple terminal interface with styled output.
 
