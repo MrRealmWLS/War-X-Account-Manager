@@ -66,7 +66,7 @@ By using this software, you agree that:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/MrRealmWLS/War-X-Account-Manager.git
+git clone https://github.com/RealmWLS/War-X-Account-Manager.git
 cd war-x-account-manager
 ```
 
